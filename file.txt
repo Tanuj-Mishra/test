@@ -1,3 +1,4 @@
 sample file
 first
 second
+third
